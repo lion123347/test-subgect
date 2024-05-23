@@ -28,3 +28,8 @@ text-decoration:dotted ;
 border-radius: 10px;
 }
 
+.carousel-cell { 
+    width: 100%;
+    text-align: center;
+}
+
